@@ -1,2 +1,2 @@
 # conversor-temperatura
-Repositório criado para converter celsius para fahrenheit
+Repositório criado para converter **celsius** para **fahrenheit**.
